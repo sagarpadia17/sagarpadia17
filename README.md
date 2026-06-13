@@ -278,26 +278,6 @@ Focused on modern frontend development, responsive web applications, desktop pro
 
 ---
 
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming%20Foundations-005BAC?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -307,16 +287,6 @@ Focused on modern frontend development, responsive web applications, desktop pro
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sagarpadia17&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
@@ -672,26 +642,6 @@ Focused on modern frontend development, responsive web applications, desktop pro
 
 ---
 
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming%20Foundations-005BAC?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -701,16 +651,6 @@ Focused on modern frontend development, responsive web applications, desktop pro
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sagarpadia17&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
