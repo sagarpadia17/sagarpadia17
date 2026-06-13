@@ -1,382 +1,429 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=Sagar%20Padia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Engineer%20%7C%20Design%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sagar%20Padia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20Developer%20%7C%20Product%20Builder&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+%26+Desktop+Applications;AI-Powered+Products+%26+Modern+UX;Open+Source+Contributor"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+pixel-perfect+user+interfaces;Architecting+scalable+design+systems;Obsessing+over+performance+%26+accessibility;Turning+complex+problems+into+elegant+UIs;React+%7C+TypeScript+%7C+Next.js+Engineer)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/B.E.-Computer%20Science-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Experience-2%2B%20Years-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Product%20Engineering-Production%20Focused-8B5CF6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<a href="https://github.com/sagarpadia17">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/sagar-padia">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sagarpadia7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sagarpadia17">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <br/>
 
-[![Education](https://img.shields.io/badge/B.Tech%20Computer%20Science-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
-[![Frontend Focus](https://img.shields.io/badge/Frontend%20Specialist-4f46e5?style=flat-square&logo=react&logoColor=white)](https://github.com/sagarpadia17)
-[![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/>
-
-[![Location](https://img.shields.io/badge/📍%20India-1e1b4b?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sagarpadia17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarpadia17)
-[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarpadia17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sagarpadia17&style=flat-square&color=6d28d9&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/sagarpadia17?style=flat-square&color=4f46e5&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/sagarpadia17?style=flat-square&color=7c3aed&label=Total+Stars&logo=github)
+![](https://komarev.com/ghpvc/?username=sagarpadia17&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/sagarpadia17?style=for-the-badge&color=6366F1)
+![](https://img.shields.io/github/stars/sagarpadia17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
 ---
 
-## 🧑‍💻 About
+# About
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8" />
+Frontend Engineer with 2+ years of professional experience building scalable web and desktop applications using React.js, Next.js, TypeScript, and modern frontend architectures. Experienced in developing production-grade products from the ground up, delivering responsive interfaces, reusable component systems, real-time communication workflows, and AI-powered user experiences.
 
-I am a **Frontend Developer** with a strong engineering foundation, focused on building performant, accessible, and visually exceptional digital experiences. I specialise in translating complex product requirements into clean, maintainable UI architectures that scale across enterprise-grade applications.
+My engineering approach focuses on:
 
-My approach combines rigorous **component engineering**, disciplined **design system thinking**, and a relentless focus on **Core Web Vitals** — ensuring every interface I build is fast, beautiful, and production-ready from day one.
+- Designing maintainable and scalable frontend architectures
+- Building high-performance React and Next.js applications
+- Creating reusable UI systems and component libraries
+- Developing AI-powered conversational interfaces
+- Optimizing application performance and developer productivity
+- Translating product requirements into production-ready software
+- Collaborating closely with design, backend, and product teams
 
-I work across the full frontend spectrum: from pixel-perfect implementation and accessibility audits to state management architecture, CI/CD pipeline optimisation, and cross-browser compatibility at scale.
+### Open To
 
-**Currently:**
-
-- 🏗️ Architecting reusable component libraries and design token systems
-- ⚡ Optimising web performance across Lighthouse metrics
-- 🎨 Bridging the gap between design intent and engineering precision
-- 🤝 Contributing to open source frontend tooling
-
-**Open To:**
-
-[![Full-Time Roles](https://img.shields.io/badge/Full--Time%20Roles-6d28d9?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
-[![Freelance Projects](https://img.shields.io/badge/Freelance%20Projects-4f46e5?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
-[![Open Source Collaboration](https://img.shields.io/badge/Open%20Source%20Collaboration-7c3aed?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
-[![Technical Mentorship](https://img.shields.io/badge/Technical%20Mentorship-1e1b4b?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
-
-<br clear="right"/>
+- Frontend Engineer Roles
+- React Developer Positions
+- Next.js & TypeScript Opportunities
+- Product Engineering Teams
+- AI Product Development
+- Open Source Collaboration
+- Remote & Hybrid Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-<div align="center">
+## Languages
 
-**Languages**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark)](https://skillicons.dev)
+## Frontend
 
-**Frontend**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui" />
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,redux,graphql,figma&theme=dark)](https://skillicons.dev)
+## Backend & Databases
 
-**Backend & Databases**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,redis&theme=dark)](https://skillicons.dev)
+## Cloud, DevOps & Tooling
 
-**Cloud, DevOps & Tooling**
-
-[![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,vite,webpack,jest&theme=dark)](https://skillicons.dev)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,netlify,figma,vscode" />
+</p>
 
 ---
 
-## 🎨 Frontend Engineering Expertise
-
-<div align="center">
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| **React & Next.js** | ████████████ Expert | SSR, SSG, ISR, App Router, Server Components, Suspense |
-| **TypeScript** | ███████████░ Advanced | Generics, Utility Types, Type Guards, Strict Mode |
-| **Design Systems** | ███████████░ Advanced | Design Tokens, Storybook, Component APIs, Theming |
-| **CSS & Animation** | ████████████ Expert | CSS-in-JS, Framer Motion, GSAP, Keyframes, Tailwind |
-| **State Management** | ██████████░░ Advanced | Redux Toolkit, Zustand, Jotai, React Query, Context |
-| **Web Performance** | ███████████░ Advanced | Core Web Vitals, Lighthouse, Bundle Splitting, Lazy Loading |
-| **Accessibility** | ██████████░░ Advanced | WCAG 2.1 AA, ARIA, Keyboard Navigation, Screen Readers |
-| **Testing** | █████████░░░ Proficient | Jest, RTL, Cypress, Playwright, Vitest, MSW |
-| **GraphQL** | █████████░░░ Proficient | Apollo Client, Code Generation, Optimistic UI |
-| **Node.js / APIs** | ████████░░░░ Proficient | REST, Express, BFF Pattern, API Integration |
-
-</div>
+|----------|------------|-----------|
+| AI Product Development | Advanced | Building AI-powered conversational products and assistants |
+| LLM Integrations | Advanced | Real-time streaming chat interfaces and AI workflows |
+| Conversational AI | Advanced | Multi-turn conversation systems and chatbot experiences |
+| Voice AI Interfaces | Advanced | Voice recording, speech detection, waveform visualization |
+| Prompt Engineering | Intermediate | Structured prompting and AI workflow optimization |
+| Real-Time Streaming Systems | Advanced | SSE-based streaming architecture for AI communication |
+| AI UX Engineering | Advanced | Human-centric AI experiences and interaction design |
+| Embeddable AI Widgets | Advanced | Custom chatbot widgets and external integrations |
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
 <details>
-<summary><b>◈ Enterprise Design System & Component Library</b></summary>
+<summary><b>🚀 Soika Mockingjay — AI Powered Chat Platform</b></summary>
 
-<br/>
+### Overview
 
-A production-grade, fully typed React component library built with design token architecture, enabling consistent UI at scale across multiple product surfaces. Engineered with accessibility-first principles and full Storybook documentation.
+Enterprise-grade AI chatbot platform focused on real-time conversational experiences, voice interactions, file processing, and embeddable integrations.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React 18, TypeScript, Tailwind CSS, Radix UI, Storybook, Rollup |
-| **Scale** | 60+ reusable components, 3 theme variants, used across 4 product teams |
-| **Performance** | Tree-shakeable, <8KB core bundle, zero runtime CSS-in-JS |
-| **Accessibility** | WCAG 2.1 AA compliant, full keyboard navigation, ARIA patterns |
-| **Impact** | Reduced UI development time by ~40%, eliminated design inconsistencies |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
+| Metric | Details |
+|---------|---------|
+| Stack | React, Tailwind CSS, MUI, Context API |
+| Scale | Production-grade multi-user application |
+| Performance | Real-time streaming responses |
+| Security | Refresh token authentication with multi-tab synchronization |
+| Impact | AI-powered conversational platform |
+| Repository | Private |
 
-This library introduced a semantic design token system (color, spacing, typography, elevation) as the single source of truth between Figma and code. Component APIs were designed with strict prop contracts enforced by TypeScript, enabling predictable composition without runtime surprises. Storybook served as both living documentation and visual regression testing ground.
+#### Engineering Highlights
+
+- Implemented EventSource SSE streaming architecture
+- Developed voice recording and speech detection workflows
+- Added waveform visualization and audio processing
+- Built drag-and-drop upload functionality
+- Developed embeddable chatbot widget
+- Created reusable API architecture and global state management
 
 </details>
 
 <details>
-<summary><b>◈ High-Performance E-Commerce Storefront</b></summary>
+<summary><b>🚀 VahanYaar — Vehicle Trading Desktop Application</b></summary>
 
-<br/>
+### Overview
 
-A Next.js-powered storefront built for conversion-optimised performance. Achieved Lighthouse scores above 95 across all metrics through aggressive image optimisation, edge caching, and strategic code splitting.
+Cross-platform desktop application enabling second-hand vehicle buying and selling with real-time updates and automated deployment workflows.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Next.js 14, TypeScript, Tailwind CSS, Zustand, Stripe, Vercel Edge |
-| **Scale** | 10,000+ SKUs, multi-currency, multi-region, CDN-distributed |
-| **Performance** | LCP < 1.2s, CLS < 0.05, FID < 50ms, Lighthouse 97/100 |
-| **Security** | CSP headers, Stripe SCA, input sanitisation, OWASP compliance |
-| **Impact** | 28% improvement in conversion rate, 42% reduction in bounce rate |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-4f46e5?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
+| Metric | Details |
+|---------|---------|
+| Stack | React, Bootstrap, Tauri |
+| Scale | Multi-platform desktop deployment |
+| Performance | Native desktop performance |
+| Security | Authentication and protected workflows |
+| Impact | Vehicle marketplace platform |
+| Repository | Private |
 
-Implemented ISR with on-demand revalidation for product pages, enabling near-instant content updates without full rebuilds. Cart state persistence across sessions was achieved through a hybrid Zustand + localStorage architecture with optimistic UI patterns for zero-latency interactions.
+#### Engineering Highlights
 
-</details>
-
-<details>
-<summary><b>◈ Real-Time Collaborative Dashboard</b></summary>
-
-<br/>
-
-A data-rich analytics dashboard with real-time collaborative features, built using WebSocket-based state synchronisation and highly interactive data visualisation components.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | React, TypeScript, D3.js, Recharts, Socket.io, React Query, PostgreSQL |
-| **Scale** | Multi-tenant, 500+ concurrent users, 1M+ data points rendered |
-| **Performance** | Virtualised lists, canvas rendering for charts, debounced sync |
-| **Security** | JWT auth, role-based access control, encrypted WebSocket channels |
-| **Impact** | Replaced legacy BI tool, saved $60K/yr in third-party licensing |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
-
-The dashboard architecture introduced a custom hook abstraction layer over React Query and Socket.io, providing components with a unified data interface regardless of whether data arrived via REST or real-time event. D3.js custom charts were wrapped in React-compatible APIs with full TypeScript typings.
+- Developed complete desktop application architecture
+- Implemented image upload workflows
+- Added real-time data synchronization
+- Configured Tauri auto-update mechanism
+- Optimized desktop performance and packaging
 
 </details>
 
 <details>
-<summary><b>◈ AI-Powered Content Creation Platform (Frontend)</b></summary>
+<summary><b>🚀 BuildYaar — Property Marketplace Desktop App</b></summary>
 
-<br/>
+### Overview
 
-Frontend engineering for a SaaS platform that surfaces AI-generated content to end users through an intuitive, stream-aware editor interface with real-time token streaming, rich text editing, and multi-modal content management.
+Property transaction platform built with Tauri, supporting document workflows, PDF processing, and real-time property management.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Next.js, TypeScript, TipTap, Framer Motion, Tailwind, tRPC |
-| **Scale** | 20,000+ active users, 300+ concurrent editing sessions |
-| **Performance** | Streaming UI, optimistic updates, lazy-loaded editor modules |
-| **Security** | CSRF protection, content sanitisation, rate-limited API routes |
-| **Impact** | 4.8/5 user satisfaction, top-rated UX among competitors in category |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
+| Metric | Details |
+|---------|---------|
+| Stack | React, Tauri, Axios |
+| Scale | Cross-platform desktop solution |
+| Performance | Optimized rendering and updates |
+| Security | User management and secure APIs |
+| Impact | Property buying and selling ecosystem |
+| Repository | Private |
 
-Implemented a streaming-aware rich text editor using TipTap with custom extensions for AI content insertion. Built a token-streaming renderer that progressively hydrates content into the editor as it arrives from the LLM, creating a native, low-latency feel without page re-renders.
+#### Engineering Highlights
+
+- Integrated PDF viewing workflows
+- Built rich text editing capabilities
+- Added real-time property updates
+- Implemented user administration features
+- Configured automated desktop updates
+
+</details>
+
+<details>
+<summary><b>🚀 Punctualiti — Dynamic Form Builder</b></summary>
+
+### Overview
+
+Advanced form builder application enabling dynamic workflow creation and rich content editing.
+
+| Metric | Details |
+|---------|---------|
+| Stack | Next.js, Tailwind CSS |
+| Scale | Modular SaaS architecture |
+| Performance | Optimized rendering strategy |
+| Security | Secure form workflows |
+| Impact | Productivity and workflow automation |
+| Repository | Private |
+
+#### Engineering Highlights
+
+- Built dynamic form generation engine
+- Implemented reusable component architecture
+- Developed advanced rich-text editing
+- Optimized user experience and responsiveness
 
 </details>
 
 ---
 
-## 💼 Experience
+# Experience
 
-<div align="left">
+## Front-End Developer | Soika Labs
 
-### Frontend Developer
-**[Company Name]** &nbsp;·&nbsp; *2023 – Present*
+**Mar 2025 – Oct 2025**
 
-Delivered production frontend systems for consumer-facing and internal enterprise products, owning the full UI delivery lifecycle from architecture through deployment. Collaborated closely with product, design, and backend teams in an agile environment.
+Worked on AI-powered products, desktop applications, and modern frontend systems using React, TypeScript, and Tauri.
 
-- Architected a shared component library consumed by 4 cross-functional teams, reducing UI duplication by 60%
-- Led performance audit initiative, improving average Lighthouse score from 67 to 94 across 3 core product surfaces
-- Implemented CI/CD pipelines for frontend builds with automated visual regression testing via Chromatic
-- Mentored 2 junior frontend engineers, conducting weekly code reviews and pair programming sessions
-- Drove adoption of TypeScript strict mode across the codebase, reducing runtime errors by ~35%
+### Scope of Work
 
-[![React](https://img.shields.io/badge/React-6d28d9?style=flat-square&logo=react&logoColor=white)](https://github.com/sagarpadia17)
-[![Next.js](https://img.shields.io/badge/Next.js-4f46e5?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/sagarpadia17)
-[![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white)](https://github.com/sagarpadia17)
-[![Tailwind](https://img.shields.io/badge/Tailwind-6d28d9?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/sagarpadia17)
-[![Storybook](https://img.shields.io/badge/Storybook-4f46e5?style=flat-square&logo=storybook&logoColor=white)](https://github.com/sagarpadia17)
-[![AWS](https://img.shields.io/badge/AWS-7c3aed?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/sagarpadia17)
+- Built cross-platform desktop applications using Tauri
+- Developed real-time AI conversation systems
+- Delivered 30+ production-ready application pages
+- Implemented reusable React component architecture
+- Optimized performance through lazy loading and code splitting
+- Integrated REST APIs and streaming services
+- Collaborated within Agile product teams
 
-<br/>
+**Skills**
 
-### Junior Frontend Developer
-**[Previous Company]** &nbsp;·&nbsp; *2022 – 2023*
-
-Contributed to frontend feature development for a B2B SaaS platform, building reusable UI components, integrating REST APIs, and improving web accessibility across product flows.
-
-- Developed 15+ React components integrated into the core product with full unit test coverage
-- Migrated legacy class components to functional components with hooks, reducing codebase complexity
-- Resolved critical cross-browser compatibility issues impacting 12% of the user base
-- Implemented responsive layouts and mobile-first breakpoints across the marketing site
-
-[![React](https://img.shields.io/badge/React-6d28d9?style=flat-square&logo=react&logoColor=white)](https://github.com/sagarpadia17)
-[![JavaScript](https://img.shields.io/badge/JavaScript-4f46e5?style=flat-square&logo=javascript&logoColor=white)](https://github.com/sagarpadia17)
-[![CSS3](https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logo=css3&logoColor=white)](https://github.com/sagarpadia17)
-[![Redux](https://img.shields.io/badge/Redux-6d28d9?style=flat-square&logo=redux&logoColor=white)](https://github.com/sagarpadia17)
-
-</div>
+`React` `TypeScript` `Tauri` `SSE` `TailwindCSS` `REST APIs` `Git`
 
 ---
 
-## 🏆 Achievements
+## Front-End Developer | MB Infoways
+
+**May 2023 – Feb 2025**
+
+Focused on modern frontend development, responsive web applications, desktop products, and performance optimization.
+
+### Scope of Work
+
+- Developed React and Next.js applications
+- Built reusable frontend libraries
+- Created responsive user interfaces
+- Implemented REST API integrations
+- Improved application performance
+- Ensured cross-browser compatibility
+- Participated in Agile delivery cycles
+
+**Skills**
+
+`React` `Next.js` `JavaScript` `Tailwind CSS` `Bootstrap` `Git`
+
+---
+
+# Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| 🥇 **Top Performer** | Recognised for highest UI delivery velocity across engineering org — Q3 2024 |
-| ⚡ **Performance Champion** | Led initiative achieving sub-1.5s LCP across all core product pages |
-| 🎖️ **Hackathon Winner** | 1st place — Internal product hackathon, best UX & technical execution |
-| 📦 **OSS Contributor** | Active contributor to open source React component libraries |
-| 🎓 **Mentor of the Quarter** | Recognised for engineering mentorship and knowledge-sharing sessions |
-| 🌟 **Design–Eng Bridge** | Commended for exceptional design-engineering collaboration and Figma fidelity |
+|-------------|---------|
+| Production Delivery | Delivered 30+ page enterprise-grade application from scratch |
+| AI Engineering | Built real-time AI chatbot systems with streaming architecture |
+| Desktop Development | Developed multiple Tauri-based cross-platform desktop applications |
+| Performance Engineering | Implemented code splitting and lazy loading strategies |
+| Component Architecture | Designed reusable and scalable frontend systems |
+| Product Development | Contributed across complete product lifecycle |
 
 </div>
 
 ---
 
-## 📜 Certifications
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Programming%20Foundations-005BAC?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+---
+
+# Coding Profiles
 
 <div align="center">
 
-**AWS**
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sagarpadia17)
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sagarpadia17)
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
 
-<br/>
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
 
-**Meta / Frontend Masters**
-
-[![Meta Frontend](https://img.shields.io/badge/Meta%20Frontend%20Developer-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/sagarpadia17)
-[![Frontend Masters](https://img.shields.io/badge/Frontend%20Masters%20Pro-CC0000?style=for-the-badge&logo=frontendmasters&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/>
-
-**NPTEL**
-
-[![NPTEL Programming](https://img.shields.io/badge/NPTEL%20–%20Programming%20in%20Java-6d28d9?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
-[![NPTEL Web Dev](https://img.shields.io/badge/NPTEL%20–%20Web%20Development-4f46e5?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/>
-
-**Cisco / Other**
-
-[![Cisco Networking](https://img.shields.io/badge/Cisco%20–%20Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/sagarpadia17)
-[![Google UX](https://img.shields.io/badge/Google%20UX%20Design%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/sagarpadia17)
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Programming-5B4638?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+# GitHub Analytics
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sagarpadia17)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sagarpadia17)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sagarpadia17)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sagarpadia17)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpadia17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpadia17&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=4f46e5&text_color=c4b5fd&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8&hide=jupyter%20notebook" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=6d28d9&fire=4f46e5&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sagarpadia17&theme=tokyonight&no-frame=true&column=7"/>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+# Contribution Activity
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sagarpadia17&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/sagarpadia17)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=4f46e5&area=true&area_color=6d28d9&hide_border=true&custom_title=Sagar%27s%20Contribution%20Graph)](https://github.com/sagarpadia17)
+<img src="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎯 Current Focus
+# Current Focus
 
 ```yaml
-name: Sagar Padia
-role: Frontend Developer
-location: India
-
 learning:
-  - Web animations with GSAP and Framer Motion
-  - Micro-frontend architecture patterns
-  - Web3 frontend integration (ethers.js, wagmi)
-  - React Server Components deep dive
+  - Advanced TypeScript
+  - System Design
+  - AI Engineering
+  - Scalable Frontend Architecture
 
 building:
-  - Open source design system with full a11y support
-  - Personal portfolio v3 — Next.js 14 + GSAP
-  - Frontend performance monitoring dashboard
-  - CLI tool for scaffolding typed React component libraries
+  - AI Powered Applications
+  - React Ecosystem Projects
+  - Desktop Applications using Tauri
+  - Open Source Contributions
 
 exploring:
-  - Edge rendering and partial hydration strategies
-  - AI-assisted UI prototyping workflows
-  - Advanced TypeScript compiler API
-  - CSS Houdini and Paint Worklets
+  - LLM Integrations
+  - Agentic AI Workflows
+  - Performance Engineering
+  - Cloud Native Frontend Systems
 
 open_to:
-  - Senior Frontend / UI Engineer roles
-  - Design system and component library projects
-  - Performance engineering consulting
-  - Open source mentorship and collaboration
+  - Frontend Engineer Roles
+  - React & Next.js Opportunities
+  - Product Engineering Teams
+  - AI Focused Startups
 ```
 
 ---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:sagarpadia7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sagarpadia7%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/sagar-padia">
+<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Padia-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sagarpadia17">
+<img src="https://img.shields.io/badge/GitHub-sagarpadia17-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/sagarpadia17">
+<img src="https://img.shields.io/badge/Portfolio-Developer%20Profile-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering elegant user experiences through scalable software and thoughtful product design."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</div>
