@@ -332,16 +332,6 @@ Focused on modern frontend development, responsive web applications, desktop pro
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
@@ -731,16 +721,6 @@ Focused on modern frontend development, responsive web applications, desktop pro
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
