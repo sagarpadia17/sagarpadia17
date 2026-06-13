@@ -1,356 +1,398 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sagar%20Padia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20Developer%20%7C%20Product%20Builder&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+%26+Desktop+Applications;AI-Powered+Products+%26+Modern+UX;Open+Source+Contributor"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:4f46e5&height=200&section=header&text=Sagar%20Padia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Tauri%20%7C%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-![](https://img.shields.io/badge/B.E.-Computer%20Science-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Experience-2%2B%20Years-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Product%20Engineering-Production%20Focused-8B5CF6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/sagar-padia">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sagarpadia7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+pixel-perfect+user+interfaces;Shipping+cross-platform+desktop+apps+with+Tauri;Real-time+AI+streaming+via+EventSource+SSE;30%2B+page+production+apps+from+scratch;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=sagarpadia17&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/sagarpadia17?style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/stars/sagarpadia17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
+[![B.E. Computer Science](https://img.shields.io/badge/B.E.%20Computer%20Science%20–%20VTU-6d28d9?style=flat-square&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
+[![Frontend Specialist](https://img.shields.io/badge/Frontend%20Specialist%20–%202%2B%20Years-4f46e5?style=flat-square&logo=react&logoColor=white)](https://github.com/sagarpadia17)
+[![Tauri Developer](https://img.shields.io/badge/Tauri%20Desktop%20App%20Developer-7c3aed?style=flat-square&logo=tauri&logoColor=white)](https://github.com/sagarpadia17)
+
+<br/>
+
+[![Location](https://img.shields.io/badge/📍%20Ahmedabad%2C%20India-1e1b4b?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sagarpadia17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-padia)
+[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarpadia7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarpadia17)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagarpadia17&style=flat-square&color=6d28d9&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/sagarpadia17?style=flat-square&color=4f46e5&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/sagarpadia17?style=flat-square&color=7c3aed&label=Total+Stars&logo=github)
 
 </div>
 
 ---
 
-# About
+## 🧑‍💻 About
 
-Frontend Engineer with 2+ years of professional experience building scalable web and desktop applications using React.js, Next.js, TypeScript, and modern frontend architectures. Experienced in developing production-grade products from the ground up, delivering responsive interfaces, reusable component systems, real-time communication workflows, and AI-powered user experiences.
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8" />
 
-My engineering approach focuses on:
+I am a **Front-End Developer** with 2+ years of experience building responsive web applications and cross-platform desktop apps. I specialise in **React.js**, **Next.js**, **TypeScript**, and **Tauri** — delivering production-grade interfaces from concept through deployment with a strong emphasis on clean component architecture and real-world performance.
 
-- Designing maintainable and scalable frontend architectures
-- Building high-performance React and Next.js applications
-- Creating reusable UI systems and component libraries
-- Developing AI-powered conversational interfaces
-- Optimizing application performance and developer productivity
-- Translating product requirements into production-ready software
-- Collaborating closely with design, backend, and product teams
+My work spans AI-powered chatbots with real-time streaming, property and vehicle trading desktop apps, and dynamic form-builder platforms — each shipped with pixel-level Figma fidelity, reusable component systems, and optimised bundle sizes.
 
-### Open To
+I thrive in agile teams where frontend engineering is treated as a craft: thoughtful state management, accessible UI patterns, cross-browser reliability, and measurable performance wins.
 
-- Frontend Engineer Roles
-- React Developer Positions
-- Next.js & TypeScript Opportunities
-- Product Engineering Teams
-- AI Product Development
-- Open Source Collaboration
-- Remote & Hybrid Opportunities
+**Currently:**
 
----
+- 🖥️ Building cross-platform desktop apps with Tauri and React
+- ⚡ Implementing real-time AI streaming via EventSource SSE
+- 🎨 Engineering reusable component libraries aligned to Figma specs
+- 🚀 Optimising load performance through code splitting and lazy loading
 
-# Tech Stack
+**Open To:**
 
-## Languages
+[![Full-Time Roles](https://img.shields.io/badge/Full--Time%20Frontend%20Roles-6d28d9?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
+[![Freelance Projects](https://img.shields.io/badge/Freelance%20Projects-4f46e5?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
+[![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-7c3aed?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
+[![Remote Opportunities](https://img.shields.io/badge/Remote%20Opportunities-1e1b4b?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,netlify,figma,vscode" />
-</p>
+<br clear="right"/>
 
 ---
 
-# AI / ML Expertise
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend & UI**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
+
+**Desktop & Runtime**
+
+[![Skills](https://skillicons.dev/icons?i=tauri,rust&theme=dark)](https://skillicons.dev)
+
+**Backend & APIs**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,docker,aws&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tooling**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,vite&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🎨 Frontend Engineering Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|----------|------------|-----------|
-| AI Product Development | Advanced | Building AI-powered conversational products and assistants |
-| LLM Integrations | Advanced | Real-time streaming chat interfaces and AI workflows |
-| Conversational AI | Advanced | Multi-turn conversation systems and chatbot experiences |
-| Voice AI Interfaces | Advanced | Voice recording, speech detection, waveform visualization |
-| Prompt Engineering | Intermediate | Structured prompting and AI workflow optimization |
-| Real-Time Streaming Systems | Advanced | SSE-based streaming architecture for AI communication |
-| AI UX Engineering | Advanced | Human-centric AI experiences and interaction design |
-| Embeddable AI Widgets | Advanced | Custom chatbot widgets and external integrations |
+|---|---|---|
+| **React.js & Hooks** | ████████████ Expert | Functional components, Context API, custom hooks, state patterns |
+| **Next.js** | ███████████░ Advanced | SSR, SSG, ISR, App Router, dynamic routing, Vercel deployment |
+| **TypeScript** | ██████████░░ Advanced | Type safety, interfaces, generics, strict mode |
+| **Tauri Desktop Apps** | ███████████░ Advanced | Cross-platform packaging, auto-update via Tauri Updater |
+| **Tailwind CSS** | ████████████ Expert | Utility-first, responsive design, custom config, component classes |
+| **REST API Integration** | ███████████░ Advanced | Axios, SSE EventSource, real-time streaming, error handling |
+| **Performance Optimisation** | ██████████░░ Advanced | Code splitting, lazy loading, reusable components, bundle analysis |
+| **UI/UX & Styling** | ██████████░░ Advanced | Bootstrap, MUI, Figma-to-code precision, cross-browser compatibility |
+| **State Management** | █████████░░░ Proficient | Context API, React Hooks, global state patterns |
+| **DevOps & Tooling** | ████████░░░░ Proficient | Git, Docker, AWS EC2, Vercel, Netlify, Agile/Scrum, ClickUp |
+
+</div>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🚀 Soika Mockingjay — AI Powered Chat Platform</b></summary>
+<summary><b>◈ Soika Mockingjay — AI-Powered Chatbot Web App</b></summary>
 
-### Overview
+<br/>
 
-Enterprise-grade AI chatbot platform focused on real-time conversational experiences, voice interactions, file processing, and embeddable integrations.
+A fully-featured AI-powered chatbot platform with real-time streaming responses, secure authentication, and rich media interactions. Built to be embeddable as a widget on external sites, with a production-grade UX rivalling commercial chatbot products.
 
-| Metric | Details |
-|---------|---------|
-| Stack | React, Tailwind CSS, MUI, Context API |
-| Scale | Production-grade multi-user application |
-| Performance | Real-time streaming responses |
-| Security | Refresh token authentication with multi-tab synchronization |
-| Impact | AI-powered conversational platform |
-| Repository | Private |
+| Attribute | Detail |
+|---|---|
+| **Stack** | React, TypeScript, TailwindCSS, MUI, Context API, EventSource SSE |
+| **Scale** | Multi-tab sync, embeddable widget, external site integration |
+| **Performance** | Real-time token streaming, lazy-loaded media previews, optimised re-renders |
+| **Security** | Secure refresh-token authentication, multi-tab session sync, scoped API hooks |
+| **Impact** | Full production deployment; embeddable chatbot widget shipped to external clients |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
 
-#### Engineering Highlights
-
-- Implemented EventSource SSE streaming architecture
-- Developed voice recording and speech detection workflows
-- Added waveform visualization and audio processing
-- Built drag-and-drop upload functionality
-- Developed embeddable chatbot widget
-- Created reusable API architecture and global state management
+Implemented real-time streaming AI responses using EventSource SSE, giving users a native, low-latency chat experience without WebSocket overhead. Added voice recording, speech detection, waveform visualisation, drag-and-drop file uploads, and PDF/video preview — all within a cohesive, accessible UI. The embeddable widget architecture used custom API hooks and a scoped CSS strategy to integrate cleanly into any third-party site.
 
 </details>
 
 <details>
-<summary><b>🚀 VahanYaar — Vehicle Trading Desktop Application</b></summary>
+<summary><b>◈ VahanYaar — Second-Hand Vehicle Trading Desktop App</b></summary>
 
-### Overview
+<br/>
 
-Cross-platform desktop application enabling second-hand vehicle buying and selling with real-time updates and automated deployment workflows.
+A cross-platform desktop application for second-hand vehicle trading, built with Tauri and React. Delivered full marketplace functionality including listings, image uploads, user authentication, and seamless auto-updates — packaged natively for Windows, macOS, and Linux.
 
-| Metric | Details |
-|---------|---------|
-| Stack | React, Bootstrap, Tauri |
-| Scale | Multi-platform desktop deployment |
-| Performance | Native desktop performance |
-| Security | Authentication and protected workflows |
-| Impact | Vehicle marketplace platform |
-| Repository | Private |
+| Attribute | Detail |
+|---|---|
+| **Stack** | React, Bootstrap, Tauri, Axios, Tauri Updater |
+| **Scale** | Full marketplace — listings, image uploads, auth, real-time data |
+| **Performance** | Native desktop performance via Tauri, lazy-loaded image galleries |
+| **Security** | User authentication, secure data handling, scoped permissions |
+| **Impact** | Cross-platform shipping (Windows / macOS / Linux) with auto-update delivery |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-4f46e5?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
 
-#### Engineering Highlights
-
-- Developed complete desktop application architecture
-- Implemented image upload workflows
-- Added real-time data synchronization
-- Configured Tauri auto-update mechanism
-- Optimized desktop performance and packaging
+Leveraged Tauri's Rust-based backend to achieve near-native performance with a React frontend, drastically reducing bundle size compared to Electron alternatives. Tauri Updater enabled silent background updates with user-triggered install prompts, ensuring the user base always runs the latest version without manual reinstallation.
 
 </details>
 
 <details>
-<summary><b>🚀 BuildYaar — Property Marketplace Desktop App</b></summary>
+<summary><b>◈ BuildYaar — Property Buying & Selling Desktop App</b></summary>
 
-### Overview
+<br/>
 
-Property transaction platform built with Tauri, supporting document workflows, PDF processing, and real-time property management.
+A Tauri-based desktop application for property transactions, featuring integrated PDF document viewing, a built-in rich text editor, real-time property updates, and full user management — packaged for cross-platform distribution.
 
-| Metric | Details |
-|---------|---------|
-| Stack | React, Tauri, Axios |
-| Scale | Cross-platform desktop solution |
-| Performance | Optimized rendering and updates |
-| Security | User management and secure APIs |
-| Impact | Property buying and selling ecosystem |
-| Repository | Private |
+| Attribute | Detail |
+|---|---|
+| **Stack** | React, Tauri, Axios, react-pdf-viewer, Rich Text Editor |
+| **Scale** | Full property marketplace — listings, documents, user roles, auto-updates |
+| **Performance** | Cross-platform native packaging, optimised PDF rendering, lazy data loading |
+| **Security** | User management, role-based access, secure API communication via Axios |
+| **Impact** | Production-ready desktop app with seamless auto-update packaging |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
 
-#### Engineering Highlights
-
-- Integrated PDF viewing workflows
-- Built rich text editing capabilities
-- Added real-time property updates
-- Implemented user administration features
-- Configured automated desktop updates
+Integrated `react-pdf-viewer` within Tauri's webview environment, resolving compatibility constraints between browser APIs and the desktop runtime. The built-in rich text editor enabled agents to draft and format property descriptions directly within the app, eliminating reliance on external tools.
 
 </details>
 
 <details>
-<summary><b>🚀 Punctualiti — Dynamic Form Builder</b></summary>
+<summary><b>◈ Punctualiti — Dynamic Form Builder Web App</b></summary>
 
-### Overview
+<br/>
 
-Advanced form builder application enabling dynamic workflow creation and rich content editing.
+A responsive Next.js web application featuring a fully dynamic form builder with drag-and-drop field configuration and an advanced rich-text editor. Engineered with clean architecture principles, reusable components, and performance-first design.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Next.js, Tailwind CSS |
-| Scale | Modular SaaS architecture |
-| Performance | Optimized rendering strategy |
-| Security | Secure form workflows |
-| Impact | Productivity and workflow automation |
-| Repository | Private |
+| Attribute | Detail |
+|---|---|
+| **Stack** | Next.js, TypeScript, Tailwind CSS, Rich Text Editor |
+| **Scale** | Dynamic form schema generation, multi-field types, responsive across devices |
+| **Performance** | Component-level code splitting, optimised re-renders, smooth UX interactions |
+| **Security** | Input validation, sanitised form output, XSS-safe rich text handling |
+| **Impact** | Production-deployed web app with zero-dependency form schema system |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarpadia17) |
 
-#### Engineering Highlights
-
-- Built dynamic form generation engine
-- Implemented reusable component architecture
-- Developed advanced rich-text editing
-- Optimized user experience and responsiveness
+Architected a form schema engine that allowed non-technical users to configure multi-step forms with conditional logic, rich text descriptions, and custom validation rules — all without touching code. Built entirely on Next.js App Router with Tailwind for a sub-200ms interaction response on all field operations.
 
 </details>
 
 ---
 
-# Experience
+## 💼 Experience
 
-## Front-End Developer | Soika Labs
+<div align="left">
 
-**Mar 2025 – Oct 2025**
+### Front-End Developer
+**Soika Labs** &nbsp;·&nbsp; *March 2025 – October 2025*
 
-Worked on AI-powered products, desktop applications, and modern frontend systems using React, TypeScript, and Tauri.
+Joined as a frontend engineer on a product team building AI-native desktop and web applications. Took ownership of the entire frontend architecture for a flagship AI chatbot product and a cross-platform desktop application, delivering 30+ pages from scratch aligned precisely with Figma specifications.
 
-### Scope of Work
+- Built cross-platform desktop applications using Tauri, including seamless auto-update support via Tauri Updater
+- Developed a two-way AI conversation system using EventSource SSE for real-time streaming communication
+- Delivered a 30+ page production application from scratch, maintaining pixel-level Figma fidelity throughout
+- Designed and implemented reusable React components with React Hooks for efficient, predictable state management
+- Optimised application performance through code splitting and lazy loading, measurably reducing load times
+- Integrated REST APIs, resolved UI/UX bugs, and collaborated in agile sprints using Git for version control
 
-- Built cross-platform desktop applications using Tauri
-- Developed real-time AI conversation systems
-- Delivered 30+ production-ready application pages
-- Implemented reusable React component architecture
-- Optimized performance through lazy loading and code splitting
-- Integrated REST APIs and streaming services
-- Collaborated within Agile product teams
+[![React](https://img.shields.io/badge/React-6d28d9?style=flat-square&logo=react&logoColor=white)](https://github.com/sagarpadia17)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4f46e5?style=flat-square&logo=typescript&logoColor=white)](https://github.com/sagarpadia17)
+[![Tauri](https://img.shields.io/badge/Tauri-7c3aed?style=flat-square&logo=tauri&logoColor=white)](https://github.com/sagarpadia17)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-6d28d9?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/sagarpadia17)
+[![MUI](https://img.shields.io/badge/MUI-4f46e5?style=flat-square&logo=mui&logoColor=white)](https://github.com/sagarpadia17)
+[![SSE](https://img.shields.io/badge/EventSource%20SSE-7c3aed?style=flat-square&logoColor=white)](https://github.com/sagarpadia17)
 
-**Skills**
+<br/>
 
-`React` `TypeScript` `Tauri` `SSE` `TailwindCSS` `REST APIs` `Git`
+### Front-End Developer
+**MB Infoways** &nbsp;·&nbsp; *May 2023 – February 2025*
+
+Contributed to frontend development across multiple client-facing web and desktop products in an agile delivery environment. Established component library conventions, improved performance benchmarks, and introduced Tauri-based desktop packaging as a new delivery channel.
+
+- Developed responsive web applications using React.js, Next.js, HTML5, CSS3, Tailwind CSS, and Bootstrap
+- Built cross-platform desktop apps using Tauri, improving product reach across Windows, macOS, and Linux
+- Created reusable React component libraries and implemented Hooks for streamlined, maintainable state management
+- Improved application performance through code splitting and component-level optimisation strategies
+- Integrated REST APIs, resolved UI/UX issues, and ensured cross-browser compatibility across all deliverables
+- Collaborated in agile development teams using Git for version control and continuous delivery
+
+[![React](https://img.shields.io/badge/React-6d28d9?style=flat-square&logo=react&logoColor=white)](https://github.com/sagarpadia17)
+[![Next.js](https://img.shields.io/badge/Next.js-4f46e5?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/sagarpadia17)
+[![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square&logo=javascript&logoColor=white)](https://github.com/sagarpadia17)
+[![Tauri](https://img.shields.io/badge/Tauri-6d28d9?style=flat-square&logo=tauri&logoColor=white)](https://github.com/sagarpadia17)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4f46e5?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/sagarpadia17)
+[![Git](https://img.shields.io/badge/Git-7c3aed?style=flat-square&logo=git&logoColor=white)](https://github.com/sagarpadia17)
+
+</div>
 
 ---
 
-## Front-End Developer | MB Infoways
-
-**May 2023 – Feb 2025**
-
-Focused on modern frontend development, responsive web applications, desktop products, and performance optimization.
-
-### Scope of Work
-
-- Developed React and Next.js applications
-- Built reusable frontend libraries
-- Created responsive user interfaces
-- Implemented REST API integrations
-- Improved application performance
-- Ensured cross-browser compatibility
-- Participated in Agile delivery cycles
-
-**Skills**
-
-`React` `Next.js` `JavaScript` `Tailwind CSS` `Bootstrap` `Git`
-
----
-
-# Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|-------------|---------|
-| Production Delivery | Delivered 30+ page enterprise-grade application from scratch |
-| AI Engineering | Built real-time AI chatbot systems with streaming architecture |
-| Desktop Development | Developed multiple Tauri-based cross-platform desktop applications |
-| Performance Engineering | Implemented code splitting and lazy loading strategies |
-| Component Architecture | Designed reusable and scalable frontend systems |
-| Product Development | Contributed across complete product lifecycle |
+|---|---|
+| 🚀 **30+ Page App Delivery** | Architected and shipped a 30+ page production application from scratch at Soika Labs |
+| 🤖 **AI Streaming Implementation** | Built real-time two-way AI conversation system using EventSource SSE |
+| 🖥️ **Cross-Platform Desktop** | Delivered Tauri desktop apps for Windows, macOS, and Linux across multiple products |
+| 🔌 **Embeddable Widget** | Engineered a chatbot widget deployable on any external site via custom API hooks |
+| ⚡ **Performance Engineering** | Consistent performance gains via code splitting and lazy loading across all projects |
+| 🎯 **Figma Fidelity** | Recognised for pixel-perfect implementation aligned to design specifications |
 
 </div>
 
 ---
 
-# GitHub Analytics
+## 📜 Certifications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpadia17&show_icons=true&theme=tokyonight&hide_border=true"/>
+**AWS**
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=tokyonight&hide_border=true"/>
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sagarpadia17)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+
+**NPTEL**
+
+[![NPTEL Programming](https://img.shields.io/badge/NPTEL%20–%20Programming%20in%20Java-6d28d9?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
+[![NPTEL Web Dev](https://img.shields.io/badge/NPTEL%20–%20Web%20Technologies-4f46e5?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
+
+<br/>
+
+**Cisco**
+
+[![Cisco Networking](https://img.shields.io/badge/Cisco%20–%20Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/sagarpadia17)
 
 </div>
 
 ---
 
-# Contribution Activity
+## 💻 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&theme=tokyo-night&hide_border=true"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sagarpadia17)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sagarpadia17)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sagarpadia17)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sagarpadia17)
 
 </div>
 
 ---
 
-# Current Focus
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpadia17&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=4f46e5&text_color=c4b5fd&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd&langs_count=8&hide=jupyter%20notebook" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=6d28d9&fire=4f46e5&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sagarpadia17&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/sagarpadia17)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=4f46e5&area=true&area_color=6d28d9&hide_border=true&custom_title=Sagar%27s%20Contribution%20Graph)](https://github.com/sagarpadia17)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
+name: Sagar Padia
+role: Front-End Developer
+location: Ahmedabad, India
+experience: 2+ years
+
 learning:
-  - Advanced TypeScript
-  - System Design
-  - AI Engineering
-  - Scalable Frontend Architecture
+  - Advanced Tauri v2 APIs and Rust interop
+  - Web animations with Framer Motion and GSAP
+  - React Server Components and Next.js 15 features
+  - Micro-frontend architecture patterns
 
 building:
-  - AI Powered Applications
-  - React Ecosystem Projects
-  - Desktop Applications using Tauri
-  - Open Source Contributions
+  - AI-powered chatbot interfaces with SSE streaming
+  - Cross-platform desktop apps with Tauri
+  - Reusable React component libraries
+  - Dynamic form builder tooling
 
 exploring:
-  - LLM Integrations
-  - Agentic AI Workflows
-  - Performance Engineering
-  - Cloud Native Frontend Systems
+  - Edge rendering and partial hydration
+  - WebAssembly with Rust + Tauri
+  - AI-assisted UI prototyping workflows
+  - Advanced TypeScript patterns
 
 open_to:
-  - Frontend Engineer Roles
-  - React & Next.js Opportunities
-  - Product Engineering Teams
-  - AI Focused Startups
+  - Frontend / UI Engineer roles (remote or Ahmedabad)
+  - React / Next.js product engineering positions
+  - Tauri desktop app development projects
+  - Freelance web and desktop app engagements
 ```
 
 ---
 
-# Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="mailto:sagarpadia7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sagarpadia7%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/sagar-padia">
-<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Padia-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/GitHub-sagarpadia17-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/Portfolio-Developer%20Profile-7C3AED?style=for-the-badge"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-sagarpadia7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarpadia7@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar--padia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-padia)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-sagarpadia17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarpadia17)
+&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-%2B91--8690674159-6d28d9?style=for-the-badge&logo=phone&logoColor=white)](tel:+918690674159)
 
 </div>
 
@@ -358,372 +400,10 @@ open_to:
 
 <div align="center">
 
-*"Engineering elegant user experiences through scalable software and thoughtful product design."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
-
-</div><div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Sagar%20Padia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20Developer%20%7C%20Product%20Builder&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+%26+Desktop+Applications;AI-Powered+Products+%26+Modern+UX;Open+Source+Contributor"/>
+*"Great UI is invisible — it gets out of the user's way and lets the product speak for itself."*
 
 <br/>
 
-![](https://img.shields.io/badge/B.E.-Computer%20Science-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Experience-2%2B%20Years-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Product%20Engineering-Production%20Focused-8B5CF6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/sagar-padia">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sagarpadia7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=sagarpadia17&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/sagarpadia17?style=for-the-badge&color=6366F1)
-![](https://img.shields.io/github/stars/sagarpadia17?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
-
-</div>
-
----
-
-# About
-
-Frontend Engineer with 2+ years of professional experience building scalable web and desktop applications using React.js, Next.js, TypeScript, and modern frontend architectures. Experienced in developing production-grade products from the ground up, delivering responsive interfaces, reusable component systems, real-time communication workflows, and AI-powered user experiences.
-
-My engineering approach focuses on:
-
-- Designing maintainable and scalable frontend architectures
-- Building high-performance React and Next.js applications
-- Creating reusable UI systems and component libraries
-- Developing AI-powered conversational interfaces
-- Optimizing application performance and developer productivity
-- Translating product requirements into production-ready software
-- Collaborating closely with design, backend, and product teams
-
-### Open To
-
-- Frontend Engineer Roles
-- React Developer Positions
-- Next.js & TypeScript Opportunities
-- Product Engineering Teams
-- AI Product Development
-- Open Source Collaboration
-- Remote & Hybrid Opportunities
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,netlify,figma,vscode" />
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|-----------|
-| AI Product Development | Advanced | Building AI-powered conversational products and assistants |
-| LLM Integrations | Advanced | Real-time streaming chat interfaces and AI workflows |
-| Conversational AI | Advanced | Multi-turn conversation systems and chatbot experiences |
-| Voice AI Interfaces | Advanced | Voice recording, speech detection, waveform visualization |
-| Prompt Engineering | Intermediate | Structured prompting and AI workflow optimization |
-| Real-Time Streaming Systems | Advanced | SSE-based streaming architecture for AI communication |
-| AI UX Engineering | Advanced | Human-centric AI experiences and interaction design |
-| Embeddable AI Widgets | Advanced | Custom chatbot widgets and external integrations |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>🚀 Soika Mockingjay — AI Powered Chat Platform</b></summary>
-
-### Overview
-
-Enterprise-grade AI chatbot platform focused on real-time conversational experiences, voice interactions, file processing, and embeddable integrations.
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, Tailwind CSS, MUI, Context API |
-| Scale | Production-grade multi-user application |
-| Performance | Real-time streaming responses |
-| Security | Refresh token authentication with multi-tab synchronization |
-| Impact | AI-powered conversational platform |
-| Repository | Private |
-
-#### Engineering Highlights
-
-- Implemented EventSource SSE streaming architecture
-- Developed voice recording and speech detection workflows
-- Added waveform visualization and audio processing
-- Built drag-and-drop upload functionality
-- Developed embeddable chatbot widget
-- Created reusable API architecture and global state management
-
-</details>
-
-<details>
-<summary><b>🚀 VahanYaar — Vehicle Trading Desktop Application</b></summary>
-
-### Overview
-
-Cross-platform desktop application enabling second-hand vehicle buying and selling with real-time updates and automated deployment workflows.
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, Bootstrap, Tauri |
-| Scale | Multi-platform desktop deployment |
-| Performance | Native desktop performance |
-| Security | Authentication and protected workflows |
-| Impact | Vehicle marketplace platform |
-| Repository | Private |
-
-#### Engineering Highlights
-
-- Developed complete desktop application architecture
-- Implemented image upload workflows
-- Added real-time data synchronization
-- Configured Tauri auto-update mechanism
-- Optimized desktop performance and packaging
-
-</details>
-
-<details>
-<summary><b>🚀 BuildYaar — Property Marketplace Desktop App</b></summary>
-
-### Overview
-
-Property transaction platform built with Tauri, supporting document workflows, PDF processing, and real-time property management.
-
-| Metric | Details |
-|---------|---------|
-| Stack | React, Tauri, Axios |
-| Scale | Cross-platform desktop solution |
-| Performance | Optimized rendering and updates |
-| Security | User management and secure APIs |
-| Impact | Property buying and selling ecosystem |
-| Repository | Private |
-
-#### Engineering Highlights
-
-- Integrated PDF viewing workflows
-- Built rich text editing capabilities
-- Added real-time property updates
-- Implemented user administration features
-- Configured automated desktop updates
-
-</details>
-
-<details>
-<summary><b>🚀 Punctualiti — Dynamic Form Builder</b></summary>
-
-### Overview
-
-Advanced form builder application enabling dynamic workflow creation and rich content editing.
-
-| Metric | Details |
-|---------|---------|
-| Stack | Next.js, Tailwind CSS |
-| Scale | Modular SaaS architecture |
-| Performance | Optimized rendering strategy |
-| Security | Secure form workflows |
-| Impact | Productivity and workflow automation |
-| Repository | Private |
-
-#### Engineering Highlights
-
-- Built dynamic form generation engine
-- Implemented reusable component architecture
-- Developed advanced rich-text editing
-- Optimized user experience and responsiveness
-
-</details>
-
----
-
-# Experience
-
-## Front-End Developer | Soika Labs
-
-**Mar 2025 – Oct 2025**
-
-Worked on AI-powered products, desktop applications, and modern frontend systems using React, TypeScript, and Tauri.
-
-### Scope of Work
-
-- Built cross-platform desktop applications using Tauri
-- Developed real-time AI conversation systems
-- Delivered 30+ production-ready application pages
-- Implemented reusable React component architecture
-- Optimized performance through lazy loading and code splitting
-- Integrated REST APIs and streaming services
-- Collaborated within Agile product teams
-
-**Skills**
-
-`React` `TypeScript` `Tauri` `SSE` `TailwindCSS` `REST APIs` `Git`
-
----
-
-## Front-End Developer | MB Infoways
-
-**May 2023 – Feb 2025**
-
-Focused on modern frontend development, responsive web applications, desktop products, and performance optimization.
-
-### Scope of Work
-
-- Developed React and Next.js applications
-- Built reusable frontend libraries
-- Created responsive user interfaces
-- Implemented REST API integrations
-- Improved application performance
-- Ensured cross-browser compatibility
-- Participated in Agile delivery cycles
-
-**Skills**
-
-`React` `Next.js` `JavaScript` `Tailwind CSS` `Bootstrap` `Git`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Production Delivery | Delivered 30+ page enterprise-grade application from scratch |
-| AI Engineering | Built real-time AI chatbot systems with streaming architecture |
-| Desktop Development | Developed multiple Tauri-based cross-platform desktop applications |
-| Performance Engineering | Implemented code splitting and lazy loading strategies |
-| Component Architecture | Designed reusable and scalable frontend systems |
-| Product Development | Contributed across complete product lifecycle |
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarpadia17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpadia17&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpadia17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Advanced TypeScript
-  - System Design
-  - AI Engineering
-  - Scalable Frontend Architecture
-
-building:
-  - AI Powered Applications
-  - React Ecosystem Projects
-  - Desktop Applications using Tauri
-  - Open Source Contributions
-
-exploring:
-  - LLM Integrations
-  - Agentic AI Workflows
-  - Performance Engineering
-  - Cloud Native Frontend Systems
-
-open_to:
-  - Frontend Engineer Roles
-  - React & Next.js Opportunities
-  - Product Engineering Teams
-  - AI Focused Startups
-```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:sagarpadia7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sagarpadia7%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/sagar-padia">
-<img src="https://img.shields.io/badge/LinkedIn-Sagar%20Padia-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/GitHub-sagarpadia17-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/sagarpadia17">
-<img src="https://img.shields.io/badge/Portfolio-Developer%20Profile-7C3AED?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering elegant user experiences through scalable software and thoughtful product design."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:6d28d9&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
