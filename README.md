@@ -259,44 +259,6 @@ Contributed to frontend development across multiple client-facing web and deskto
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-**AWS**
-
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/>
-
-**NPTEL**
-
-[![NPTEL Programming](https://img.shields.io/badge/NPTEL%20–%20Programming%20in%20Java-6d28d9?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
-[![NPTEL Web Dev](https://img.shields.io/badge/NPTEL%20–%20Web%20Technologies-4f46e5?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/sagarpadia17)
-
-<br/>
-
-**Cisco**
-
-[![Cisco Networking](https://img.shields.io/badge/Cisco%20–%20Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/sagarpadia17)
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sagarpadia17)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sagarpadia17)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sagarpadia17)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sagarpadia17)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -313,35 +275,11 @@ Contributed to frontend development across multiple client-facing web and deskto
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sagarpadia17&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/sagarpadia17)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarpadia17&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=4f46e5&area=true&area_color=6d28d9&hide_border=true&custom_title=Sagar%27s%20Contribution%20Graph)](https://github.com/sagarpadia17)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/sagarpadia17/sagarpadia17/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
