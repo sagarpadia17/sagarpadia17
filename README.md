@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sagarpadia17)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/sagarpadia17)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-padia)
 [![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarpadia7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagarpadia17)
